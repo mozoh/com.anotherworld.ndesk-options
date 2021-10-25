@@ -1,6 +1,6 @@
 {
   "name": "com.anupackages.ndesk-options",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "ANU NDesk.Options",
   "description": "Providing NDesk.Options by ANU because of missing original package in Unity PackageManager",
   "keywords": [
