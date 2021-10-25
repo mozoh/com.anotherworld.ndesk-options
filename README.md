@@ -1,3 +1,6 @@
+This repository is intended to provide NDesk.Options by package registry server for Unity PackageManager because of missing original package in Unity PackageManager and because it is used by some other ANU packages.
+
+----
 # NDesk.Options
 ### An option parser for C#.
 
