@@ -2,7 +2,7 @@
     "name": "NDesk.Options.Tests",
     "rootNamespace": "",
     "references": [
-        "GUID:faa64782ac224f240aaeaba83701dd0f"
+        "NDesk.Options"
     ],
     "includePlatforms": [
         "Editor"
