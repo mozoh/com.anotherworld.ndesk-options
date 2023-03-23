@@ -1,8 +1,8 @@
 {
-  "name": "com.anupackages.ndesk-options",
+  "name": "com.anotherworld.ndesk-options",
   "version": "1.0.2",
-  "displayName": "ANU NDesk.Options",
-  "description": "Providing NDesk.Options by ANU because of missing original package in Unity PackageManager",
+  "displayName": "NDesk.Options",
+  "description": "Providing NDesk.Options because of missing original package in Unity PackageManager",
   "keywords": [
     "unity3d",
     "upm",
@@ -11,16 +11,16 @@
     "NDesk"
   ],
   "author": {
-    "name": "ANU CHEEKI BREEKI",
-    "url": "https://github.com/ANU-CHEEKI-BREEKI"
+    "name": "Another World",
+    "url": "https://github.com/mozoh"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.ndesk-options.git"
+    "url": "git+https://github.com/mozoh/com.anotherworld.ndesk-options.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.ndesk-options/issues"
+    "url": "https://github.com/mozoh/com.anotherworld.ndesk-options/issues"
   },
-  "homepage": "https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.ndesk-options#readme"
+  "homepage": "https://github.com/mozoh/com.anotherworld.ndesk-options#readme"
 }
